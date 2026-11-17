@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mag_boots",
+    "name": "Magnetic Boots",
+    "gear_kind": "Rope",
+    "charges_formula": null,
+    "price": 10,
+    "is_starting": true,
+    "description": "High-powered solenoids in sole plates that anchor the wearer against zero-g and hull rifts."
+  },
+  {
+    "id": "optical_cloaking_rig",
+    "name": "Optical Cloaking Rig",
+    "gear_kind": "CloakOfInvisibility",
+    "charges_formula": "1d4",
+    "price": 40,
+    "is_starting": false,
+    "description": "Bending light emitter that renders the operative invisible to thermal and optical sensors."
+  }
+]

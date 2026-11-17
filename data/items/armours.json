@@ -1,0 +1,10 @@
+[
+  {
+    "id": "leather_armor",
+    "name": "Leather Armor",
+    "absorption_formula": "D4",
+    "price": 10,
+    "is_starting": true,
+    "description": "Tough boiled leather plates that absorb 1d4 damage when hit."
+  }
+]

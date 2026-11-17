@@ -1,0 +1,50 @@
+[
+  {
+    "id": "face_leaper",
+    "name": "Face-Leaper Parasite",
+    "category": "Weak",
+    "points_to_hit": 3,
+    "points_awarded": 3,
+    "hp": 5,
+    "damage_formula": "1d4",
+    "loot": "DaggerChance",
+    "post_hazard": "None",
+    "description": "A skittering arachnid bio-parasite leaping from air vents to latch onto helmet visors."
+  },
+  {
+    "id": "mutated_crewman",
+    "name": "Infected Crewman",
+    "category": "Weak",
+    "points_to_hit": 3,
+    "points_awarded": 3,
+    "hp": 6,
+    "damage_formula": "1d4",
+    "loot": "ScrollChance",
+    "post_hazard": "None",
+    "description": "A former station engineer overtaken by fungal spore bio-mass, wielding a plasma torch."
+  },
+  {
+    "id": "vent_skitterer",
+    "name": "Vent Skitterer",
+    "category": "Weak",
+    "points_to_hit": 3,
+    "points_awarded": 3,
+    "hp": 5,
+    "damage_formula": "1d4",
+    "loot": "RopeChance",
+    "post_hazard": "None",
+    "description": "A juvenile chitinous xenomorph stalking along pressurized ceiling conduits."
+  },
+  {
+    "id": "combat_synthetic",
+    "name": "Rogue Combat Android",
+    "category": "Weak",
+    "points_to_hit": 4,
+    "points_awarded": 4,
+    "hp": 6,
+    "damage_formula": "1d4+1",
+    "loot": "None",
+    "post_hazard": "None",
+    "description": "A malfunctioning Weyland security synthetic leaking milky hydraulic coolant fluid."
+  }
+]

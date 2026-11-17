@@ -1,0 +1,37 @@
+{
+  "wares": [
+    {
+      "key": "1",
+      "name": "Potion",
+      "item_type": "potion",
+      "item_id": "healing_potion",
+      "price": 4
+    },
+    {
+      "key": "2",
+      "name": "Scroll",
+      "item_type": "random_scroll",
+      "item_id": null,
+      "price": 7
+    },
+    {
+      "key": "3",
+      "name": "Armor",
+      "item_type": "armor",
+      "item_id": "leather_armor",
+      "price": 10
+    }
+  ],
+  "prices": {
+    "healing_potion": 4,
+    "rope": 5,
+    "dagger": 6,
+    "random_scroll": 7,
+    "warhammer": 9,
+    "leather_armor": 10,
+    "sword": 12,
+    "flail": 15,
+    "cloak_of_invisibility": 15,
+    "mighty_zweihaender": 25
+  }
+}

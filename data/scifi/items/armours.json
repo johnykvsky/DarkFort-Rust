@@ -1,0 +1,26 @@
+[
+  {
+    "id": "hazard_vaccsuit",
+    "name": "Hazard Vaccsuit",
+    "absorption_formula": "1d4",
+    "price": 30,
+    "is_starting": true,
+    "description": "Reinforced pressurized eva suit capable of soaking acidic spit and punctures."
+  },
+  {
+    "id": "boarding_armor",
+    "name": "Heavy Boarding Armor",
+    "absorption_formula": "1d6",
+    "price": 60,
+    "is_starting": false,
+    "description": "Composite ballistic plating worn by orbital breach teams."
+  },
+  {
+    "id": "flightsuit",
+    "name": "Standard Flightsuit",
+    "absorption_formula": "1d2",
+    "price": 15,
+    "is_starting": true,
+    "description": "Light flame-retardant synthetic uniform offering minimal ballistic protection."
+  }
+]

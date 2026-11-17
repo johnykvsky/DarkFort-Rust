@@ -1,0 +1,38 @@
+[
+  {
+    "id": "summon_weak_daemon",
+    "name": "Scroll of Summon Weak Daemon",
+    "scroll_kind": "SummonWeakDaemon",
+    "charges_formula": "D4",
+    "price": 7,
+    "is_starting": true,
+    "description": "Summons a weeping imp that deals 1d4 damage alongside you for 1d4 fights."
+  },
+  {
+    "id": "palms_open_southern_gate",
+    "name": "Scroll: Palms Open the Southern Gate",
+    "scroll_kind": "PalmsOpenSouthernGate",
+    "charges_formula": "D4",
+    "price": 7,
+    "is_starting": false,
+    "description": "Invokes the sulfurous breach to deal 1d6+1 unblockable damage (1d4 uses)."
+  },
+  {
+    "id": "aegis_of_sorrow",
+    "name": "Scroll: Aegis of Sorrow",
+    "scroll_kind": "AegisOfSorrow",
+    "charges_formula": "D4",
+    "price": 7,
+    "is_starting": false,
+    "description": "Woven despair that absorbs 1d4 damage when hit by monsters (1d4 uses)."
+  },
+  {
+    "id": "false_omen",
+    "name": "Scroll: False Omen",
+    "scroll_kind": "FalseOmen",
+    "charges_formula": null,
+    "price": 7,
+    "is_starting": false,
+    "description": "Shattered prophecy: choose any room outcome or reroll any single die (1 use)."
+  }
+]

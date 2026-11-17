@@ -1,0 +1,50 @@
+[
+  {
+    "id": "blood_drenched_skeleton",
+    "name": "Blood-drenched Skeleton",
+    "category": "Weak",
+    "points_to_hit": 3,
+    "points_awarded": 3,
+    "hp": 6,
+    "damage_formula": "1d4",
+    "loot": "DaggerChance",
+    "post_hazard": "None",
+    "description": "Clattering bones coated in fresh, slick crimson gore."
+  },
+  {
+    "id": "catacomb_cultist",
+    "name": "Catacomb Cultist",
+    "category": "Weak",
+    "points_to_hit": 3,
+    "points_awarded": 3,
+    "hp": 6,
+    "damage_formula": "1d4",
+    "loot": "ScrollChance",
+    "post_hazard": "None",
+    "description": "A hooded fanatic chanting maddening verses to dead gods."
+  },
+  {
+    "id": "goblin",
+    "name": "Goblin",
+    "category": "Weak",
+    "points_to_hit": 3,
+    "points_awarded": 3,
+    "hp": 5,
+    "damage_formula": "1d4",
+    "loot": "RopeChance",
+    "post_hazard": "None",
+    "description": "A wretched, yellow-eyed runt clutching a rusty cleaver."
+  },
+  {
+    "id": "undead_hound",
+    "name": "Undead Hound",
+    "category": "Weak",
+    "points_to_hit": 4,
+    "points_awarded": 4,
+    "hp": 6,
+    "damage_formula": "1d4",
+    "loot": "None",
+    "post_hazard": "None",
+    "description": "A flayed canine corpse bounding silently through shadows."
+  }
+]

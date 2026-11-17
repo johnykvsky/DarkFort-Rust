@@ -1,0 +1,18 @@
+[
+  {
+    "id": "stimm_pak",
+    "name": "Combat Stimm-Pak",
+    "heal_formula": "1d6",
+    "price": 15,
+    "is_starting": true,
+    "description": "Adrenaline and coagulant auto-injector that restores vitality and steadies nerves."
+  },
+  {
+    "id": "trauma_kit",
+    "name": "Emergency Trauma Kit",
+    "heal_formula": "2d6",
+    "price": 35,
+    "is_starting": false,
+    "description": "Full battlefield medical pack with dermal suture gel and blood volume expanders."
+  }
+]

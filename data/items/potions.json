@@ -1,0 +1,10 @@
+[
+  {
+    "id": "healing_potion",
+    "name": "Healing Potion",
+    "heal_formula": "D6",
+    "price": 4,
+    "is_starting": true,
+    "description": "A bitter draught of curdled herbs that restores 1d6 Hit Points (bounded by Max HP)."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "warhammer",
+    "name": "Warhammer",
+    "damage_formula": "D6",
+    "attack_bonus": 0,
+    "price": 9,
+    "is_starting": true,
+    "description": "Solid iron bludgeon capable of splintering shield and skull."
+  },
+  {
+    "id": "dagger",
+    "name": "Dagger",
+    "damage_formula": "D4",
+    "attack_bonus": 1,
+    "price": 6,
+    "is_starting": true,
+    "description": "Light and easily concealed blade; nimble enough to bypass enemy guard (+1 attack)."
+  },
+  {
+    "id": "sword",
+    "name": "Sword",
+    "damage_formula": "D6",
+    "attack_bonus": 1,
+    "price": 12,
+    "is_starting": true,
+    "description": "Well-balanced arming sword of grim steel (+1 attack)."
+  },
+  {
+    "id": "flail",
+    "name": "Flail",
+    "damage_formula": "D6Plus1",
+    "attack_bonus": 0,
+    "price": 15,
+    "is_starting": true,
+    "description": "Spiked iron ball on a heavy chain; crushing kinetic force (1d6+1 damage)."
+  },
+  {
+    "id": "mighty_zweihaender",
+    "name": "Mighty Zweihänder",
+    "damage_formula": "D6Plus2",
+    "attack_bonus": 0,
+    "price": 25,
+    "is_starting": false,
+    "description": "Massive two-handed executioner's sword discovered in ancient crypts (1d6+2 damage)."
+  },
+  {
+    "id": "unarmed",
+    "name": "Fists (Unarmed)",
+    "damage_formula": "D4Minus1",
+    "attack_bonus": 0,
+    "price": 0,
+    "is_starting": false,
+    "description": "Desperate bare-knuckle violence (1d4-1 damage)."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "necro_sorcerer",
+    "name": "Necro-Sorcerer",
+    "category": "Tough",
+    "points_to_hit": 4,
+    "points_awarded": 4,
+    "hp": 8,
+    "damage_formula": "1d4",
+    "loot": "NecroSilver",
+    "post_hazard": "MaggotTransformation",
+    "description": "A withered lich hovering above the flagstones, crackling with death-ray energy."
+  },
+  {
+    "id": "small_stone_troll",
+    "name": "Small Stone Troll",
+    "category": "Tough",
+    "points_to_hit": 5,
+    "points_awarded": 7,
+    "hp": 9,
+    "damage_formula": "1d6+1",
+    "loot": "None",
+    "post_hazard": "None",
+    "description": "A hulking mass of living granite swinging boulder-like fists."
+  },
+  {
+    "id": "medusa",
+    "name": "Medusa",
+    "category": "Tough",
+    "points_to_hit": 4,
+    "points_awarded": 4,
+    "hp": 10,
+    "damage_formula": "1d6",
+    "loot": "MedusaSilver",
+    "post_hazard": "Petrification",
+    "description": "A serpentine terror whose unblinking gaze turns flesh to stone."
+  },
+  {
+    "id": "ruin_basilisk",
+    "name": "Ruin Basilisk",
+    "category": "Tough",
+    "points_to_hit": 4,
+    "points_awarded": 4,
+    "hp": 11,
+    "damage_formula": "1d6",
+    "loot": "None",
+    "post_hazard": "ImmediateLevelUp",
+    "description": "An eight-legged crowned drake radiating primal predatory venom."
+  }
+]

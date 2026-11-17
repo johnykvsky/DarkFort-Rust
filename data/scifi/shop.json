@@ -1,0 +1,32 @@
+{
+  "wares": [
+    {
+      "key": "1",
+      "name": "Combat Stimm-Pak",
+      "price": 15,
+      "item_type": "potion",
+      "item_id": "stimm_pak"
+    },
+    {
+      "key": "2",
+      "name": "Combat Drone Uplink",
+      "price": 30,
+      "item_type": "scroll",
+      "item_id": "combat_drone_uplink"
+    },
+    {
+      "key": "3",
+      "name": "Heavy Boarding Armor",
+      "price": 50,
+      "item_type": "armor",
+      "item_id": "boarding_armor"
+    },
+    {
+      "key": "4",
+      "name": "M41 Pulse Rifle",
+      "price": 60,
+      "item_type": "weapon",
+      "item_id": "pulse_rifle"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "rope",
+    "name": "Hemp Rope",
+    "gear_kind": "Rope",
+    "charges_formula": null,
+    "price": 5,
+    "is_starting": false,
+    "description": "Braided hemp fibers adding +1 to pit trap escape rolls."
+  },
+  {
+    "id": "cloak_of_invisibility",
+    "name": "Cloak of Invisibility",
+    "gear_kind": "CloakOfInvisibility",
+    "charges_formula": "D4",
+    "price": 15,
+    "is_starting": true,
+    "description": "Shrouds Kargunt in shadow, bypassing 1d4 combat encounters while claiming monster points."
+  }
+]

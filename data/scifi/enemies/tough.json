@@ -1,0 +1,50 @@
+[
+  {
+    "id": "xeno_praetorian",
+    "name": "Xenomorph Praetorian",
+    "category": "Tough",
+    "points_to_hit": 4,
+    "points_awarded": 4,
+    "hp": 10,
+    "damage_formula": "1d6+1",
+    "loot": "None",
+    "post_hazard": "Petrification",
+    "description": "An armored apex hive guardian whose caustic acid spray dissolves bulkheads and armor."
+  },
+  {
+    "id": "acid_spitter",
+    "name": "Caustic Acid Spitter",
+    "category": "Tough",
+    "points_to_hit": 4,
+    "points_awarded": 4,
+    "hp": 8,
+    "damage_formula": "1d6",
+    "loot": "MedusaSilver",
+    "post_hazard": "None",
+    "description": "A bloated xenobiological monstrosity expelling pressurized streams of molecular acid."
+  },
+  {
+    "id": "biomech_horror",
+    "name": "Biomechanical Abomination",
+    "category": "Tough",
+    "points_to_hit": 5,
+    "points_awarded": 7,
+    "hp": 10,
+    "damage_formula": "1d6+2",
+    "loot": "None",
+    "post_hazard": "None",
+    "description": "A hulking cybernetic amalgam of ship machinery, cabling, and flayed alien flesh."
+  },
+  {
+    "id": "chitin_stalker",
+    "name": "Chitinous Apex Stalker",
+    "category": "Tough",
+    "points_to_hit": 4,
+    "points_awarded": 4,
+    "hp": 11,
+    "damage_formula": "1d6",
+    "loot": "None",
+    "post_hazard": "ImmediateLevelUp",
+    "description": "A towering black-carapace predator with optical camouflage and serrated tail blades."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "alien_queen",
+    "name": "The Alien Queen (Broodmother)",
+    "category": "Tough",
+    "points_to_hit": 5,
+    "points_awarded": 25,
+    "hp": 22,
+    "damage_formula": "2d6",
+    "loot": "None",
+    "post_hazard": "None",
+    "description": "A gargantuan four-armed matriarch towering over egg clutches, hissing with apocalyptic predatory fury."
+  }
+]

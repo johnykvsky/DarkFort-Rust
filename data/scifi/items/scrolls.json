@@ -1,0 +1,38 @@
+[
+  {
+    "id": "combat_drone_uplink",
+    "name": "Combat Drone Uplink",
+    "scroll_kind": "SummonWeakDaemon",
+    "charges_formula": "1d4",
+    "price": 30,
+    "is_starting": true,
+    "description": "Deploys an autonomous security drone to flank enemies and provide covering fire."
+  },
+  {
+    "id": "plasma_discharge_core",
+    "name": "Plasma Discharge Core",
+    "scroll_kind": "PalmsOpenSouthernGate",
+    "charges_formula": "1d2",
+    "price": 40,
+    "is_starting": false,
+    "description": "Superheats internal reactor coils to blast a target room with incinerating plasma."
+  },
+  {
+    "id": "nanite_barrier_matrix",
+    "name": "Nanite Barrier Matrix",
+    "scroll_kind": "AegisOfSorrow",
+    "charges_formula": "1d3",
+    "price": 35,
+    "is_starting": false,
+    "description": "Constructs a hard-light kinetic field that absorbs incoming projectile and claw strikes."
+  },
+  {
+    "id": "decrypted_ship_schematic",
+    "name": "Decrypted Ship Schematic",
+    "scroll_kind": "FalseOmen",
+    "charges_formula": null,
+    "price": 20,
+    "is_starting": false,
+    "description": "Overrides terminal security logs to forecast or recalibrate the deck partition ahead."
+  }
+]
